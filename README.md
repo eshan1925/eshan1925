@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="450" height="300" class="rounded-corners" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif">
+
 - 👋 Hi, I’m Eshan Gupta
 - 👀 I’m interested in night coding.
 - 🌱 I’m currently learning app development using dart & flutter.
