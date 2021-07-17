@@ -2,6 +2,7 @@
 
 - 👋 Hi, I’m Eshan Gupta
 - 👀 I’m interested in night coding.
+- 🤠 I am handy with coding languages like C++,C and Python.
 - 🌱 I’m currently learning web development using html,css and javascript for frontend and React JS as back end.
 - ✨ Have explored App development using Flutter SDK and dart.
 - 💞️ I’m looking to collaborate on projects that can be done using flutter and dart.
