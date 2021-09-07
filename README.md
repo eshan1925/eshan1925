@@ -5,7 +5,7 @@
 - 🤠 I am handy with coding languages like C++,C,Java and Python. <br>
 - 🌱 I’m currently learning web development using html,css and javascript for frontend and React JS as back end. <br>
 - ✨ Have explored App development using Flutter SDK and dart. <br>
-- 💞️ I’m looking to collaborate on projects that can be done using flutter and dart. <br><br><br>
+- 💞️ I’m looking to collaborate on projects that can be done using flutter and dart. <br><br><br><br>
 
 <p > <img src="https://komarev.com/ghpvc/?username=eshan1925&label=Profile%20views&color=0e75b6&style=flat" alt="eshan1925" align="left" height=27px width=130px />  <a href="https://twitter.com/eshangu00336167" target="blank"><img src="https://img.shields.io/twitter/follow/eshangu00336167?logo=twitter&style=for-the-badge" alt="eshangu00336167" align="right" /></a> </p><br><br>
 
