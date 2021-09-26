@@ -38,9 +38,17 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshan1925&show_icons=true&locale=en&layout=compact" alt="eshan1925" /></p>
 
 <details>
+  <summary><b>📊Eshan Gupta's Contribution Graph</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=eshan1925&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true" alt="Eshan Gupta's Graph">
+  </p>
+  </summary>
+ </details>
+
+<details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <center>
     <p align="center">
   <a href='https://profile.codersrank.io/user/eshan1925/'>
   <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=eshan1925' height= 420px width= 700px>
@@ -48,3 +56,6 @@
     </p>
 
 </details>
+  
+
+ 
