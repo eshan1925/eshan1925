@@ -1,7 +1,7 @@
 <h1 align="center">Hi😎, I'm Eshan</h1>
 <h3 align="center">2nd year student at VIT, Vellore</h3>
 <img align="right" alt="Coding" width="400" height="200" class="rounded-corners" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif">
-- 👀 Night coding = Peace <br>
+- 👀 Night coding == Peace <br>
 - 🤠 I am handy with coding languages like C++,C,Java and Python. <br>
 - 🌱 I’m currently learning web development using html,css and javascript for frontend and React JS as back end. <br>
 - ✨ Have explored App development using Flutter SDK and dart. <br>
