@@ -37,14 +37,10 @@
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan1925&" alt="eshan1925" height=200px width=400px/>&nbsp;&nbsp;&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=eshan1925&show_icons=true&locale=en" alt="eshan1925" height=200px width=400px/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshan1925&show_icons=true&locale=en&layout=compact" alt="eshan1925" /></p>
 
-<details>
-  <summary><b>📊Eshan Gupta's Contribution Graph</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=eshan1925&theme=react-dark" alt="Eshan Gupta's Graph">
-  </p>
-  </summary>
- </details>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=eshan1925&theme=react-dark" alt="Eshan Gupta's Graph">
+</p>
+
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
