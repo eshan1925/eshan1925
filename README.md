@@ -11,15 +11,16 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshan1925" alt="eshan1925" /></a> </p>
 
-### Latest Blogs posts
+## Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<a href="https://medium.com/@eshan1925/what-are-virtual-machines-and-why-do-you-need-to-know-about-it-now-e525c37aae2c" target="blank"> *** What are Virtual Machines!!! </a><br>
-<h3 align="left">Connect with me:</h3>
+- <a href="https://medium.com/@eshan1925/what-are-virtual-machines-and-why-do-you-need-to-know-about-it-now-e525c37aae2c" target="blank"> What are Virtual Machines!!! 👨‍💻</a><br>
+<h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eshan1925" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eshan1925" height="30" width="40" /></a>
 <a href="https://twitter.com/eshangu00336167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshangu00336167" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eshangupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshangupta25" height="30" width="40" /></a>
+<a href="https://devpost.com/eshan1925" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" alt="eshan-gupta-devpost" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16106456/eshan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eshan-gupta" height="30" width="40" /></a>
 <a href="https://fb.com/eshan.gupta.56213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshan.gupta.56213" height="30" width="40" /></a>
 <a href="https://instagram.com/eshangupta1925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshangupta1925" height="30" width="40" /></a>
@@ -52,6 +53,19 @@
     </p>
 
 </details>
+
+<details>
+  <summary><b>⚙️&nbsp;&nbsp;Hackathons</b></summary>
+  <br/>
+    <p align="center">
+  <a href='https://devpost.com/eshan1925/challenges'>
+  <img src='https://idemoed.vercel.app/api/wall?username=eshan1925'>
+  </a>
+    </p>
+
+</details>
+
+
   
 
  
