@@ -9,7 +9,7 @@
 
 <p > <img src="https://komarev.com/ghpvc/?username=eshan1925&label=Profile%20views&color=0e75b6&style=flat" alt="eshan1925" align="left" height=27px width=130px />  <a href="https://twitter.com/eshangu00336167" target="blank"><img src="https://img.shields.io/twitter/follow/eshangu00336167?logo=twitter&style=for-the-badge" alt="eshangu00336167" align="right" /></a> </p><br><br>
 
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshan1925" alt="eshan1925" /></a> </p>
+<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshan1925&row=1&column=7&margin-w=15&margin-h=15&theme=onedark" alt="eshan1925" /></a> </p>
 
 ## Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
