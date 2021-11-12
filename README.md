@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <h1 align="center">Hi😎, I'm Eshan</h1>
 <h3 align="center">2nd year student at VIT, Vellore</h3>
 <img align="right" alt="Coding" width="400" height="200" class="rounded-corners" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif">
