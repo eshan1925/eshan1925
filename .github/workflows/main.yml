@@ -14,4 +14,5 @@ jobs:
       - uses: eshan1925/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+          SHOW_TITLE: "True"
+          SHOW_LINES_OF_CODE: "True"
