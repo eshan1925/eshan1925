@@ -33,6 +33,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+Java    6 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.78 % 
+HTML    4 hrs 50 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 % 
+CSS     4 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.41 % 
+Dart    2 hrs 21 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Other   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
