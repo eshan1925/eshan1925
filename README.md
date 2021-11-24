@@ -53,7 +53,7 @@ Other   23 mins         ▓░░░░░░░░░░░░░░░░░�
   <img src="https://activity-graph.herokuapp.com/graph?username=eshan1925&theme=react-dark" alt="Eshan Gupta's Graph">
 </p>
 
-
+<div align=center><img src="https://wakatime.com/share/@ESHAN1925/01c93c5d-e14b-41d6-82ac-84ed44e1bf3d.svg" height=400px width=4200px></div>
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
