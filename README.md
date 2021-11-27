@@ -8,7 +8,7 @@
 - ✨ Have explored App development using Flutter SDK and dart. <br>
 - 💞️ I’m looking to collaborate on projects that can be done using flutter and dart. <br><br><br><br>
 
-<p > <img src="https://komarev.com/ghpvc/?username=eshan1925&label=Profile%20views&color=0e75b6&style=flat" alt="eshan1925" align="left" height=27px width=130px />  <a href="https://twitter.com/eshangu00336167" target="blank"><img src="https://img.shields.io/twitter/follow/eshangu00336167?logo=twitter&style=for-the-badge" alt="eshangu00336167" align="right" /></a> </p><br><br>
+<p > <img src="https://komarev.com/ghpvc/?username=eshan1925&label=Profile%20views&color=0e75b6&style=flat" alt="eshan1925" align="left" height=27px width=130px />  <a href="https://twitter.com/Eshanstweet" target="blank"><img src="https://img.shields.io/twitter/follow/Eshanstweet?logo=twitter&style=for-the-badge" alt="Eshanstweet" align="right" /></a> </p><br><br>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshan1925&row=1&column=7&margin-w=15&margin-h=15&theme=onedark" alt="eshan1925" /></a> </p>
 
@@ -19,7 +19,7 @@
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/eshan1925" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="eshan1925" height="30" width="40" /></a>
-<a href="https://twitter.com/eshangu00336167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshangu00336167" height="30" width="40" /></a>
+<a href="https://twitter.com/Eshanstweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Eshanstweet" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eshangupta25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshangupta25" height="30" width="40" /></a>
 <a href="https://devpost.com/eshan1925" target="blank"><img align="center" src="https://www.clipartmax.com/png/middle/231-2318034_slack-devpost-devpost-logo.png" alt="eshan-gupta-devpost" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16106456/eshan-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eshan-gupta" height="30" width="40" /></a>
