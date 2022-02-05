@@ -14,6 +14,10 @@
 
 ## Latest Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [What are Virtual Machines??? And why do you need to know about it NOW!!!](https://medium.com/@eshan1925/what-are-virtual-machines-and-why-do-you-need-to-know-about-it-now-e525c37aae2c?source=rss-84d241930f27------2)
+- [7 Powerful Extensions for Students](https://medium.com/adg-vit/7-powerful-extensions-for-students-5017b267905e?source=rss-84d241930f27------2)
+- [7 Powerful and Amazing Websites you must know](https://medium.com/nerd-for-tech/7-powerful-and-amazing-websites-you-must-know-9e7de9c142d3?source=rss-84d241930f27------2)
+- [Why Flutter is So Special?](https://medium.com/@eshan1925/why-flutter-is-so-special-605a89ebb142?source=rss-84d241930f27------2)
 <!-- BLOG-POST-LIST:END -->
 - <a href="https://medium.com/@eshan1925/what-are-virtual-machines-and-why-do-you-need-to-know-about-it-now-e525c37aae2c" target="blank"> What are Virtual Machines!!! 👨‍💻</a><br>
 <h2 align="left">Connect with me:</h3>
