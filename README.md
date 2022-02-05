@@ -144,6 +144,9 @@ Java                     3 repos             █░░░░░░░░░░�
 
 </details>
 
+<p align="center">
+   <img src="https://github.com/eshan1925/eshan1925/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
   
 
