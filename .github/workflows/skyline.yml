@@ -1,20 +1,10 @@
-name: GitHub Skyline
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-      runs-on: ubuntu-latest
-      steps:
-        - uses: lowlighter/metrics@latest
-          with:
-            filename: metrics.plugin.skyline.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_skyline: yes
-            plugin_skyline_year: 2021
-            plugin_skyline_frames: 120
-            plugin_skyline_quality: 1
+# name: GitHub Skyline
+# uses: lowlighter/metrics@latest
+# with:
+#   filename: metrics.plugin.skyline.svg
+#   token: NOT_NEEDED
+#   base: ""
+#   plugin_skyline: yes
+#   plugin_skyline_year: 2021
+#   plugin_skyline_frames: 120
+#   plugin_skyline_quality: 1

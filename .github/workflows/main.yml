@@ -19,3 +19,15 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "False"
+
+    name: GitHub Skyline
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: 2021
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+
