@@ -115,7 +115,7 @@ Java                     3 repos             █░░░░░░░░░░�
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshan1925&show_icons=true&locale=en&layout=compact" alt="eshan1925" /></p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=eshan1925&theme=react-dark" alt="Eshan Gupta's Graph">
+  <img a;ign="center" src="https://activity-graph.herokuapp.com/graph?username=eshan1925&theme=react-dark" alt="Eshan Gupta's Graph">
 </p>
 
 <div align=center><img src="https://wakatime.com/share/@ESHAN1925/01c93c5d-e14b-41d6-82ac-84ed44e1bf3d.svg" height=400px width=4200px></div>
