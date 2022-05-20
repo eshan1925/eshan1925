@@ -100,7 +100,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eshan1925/eshan1925/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 18:57:07 UTC
+ Last Updated on 20/05/2022 18:49:12 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
