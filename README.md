@@ -70,20 +70,16 @@ Sunday       111 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               23 mins             ██████████████████░░░░░░░   73.12% 
-CSS                      8 mins              ██████░░░░░░░░░░░░░░░░░░░   25.72% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-npm-boot                 31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -104,7 +100,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eshan1925/eshan1925/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/06/2022 18:49:22 UTC
+ Last Updated on 12/06/2022 18:43:55 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
