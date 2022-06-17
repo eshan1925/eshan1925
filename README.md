@@ -37,7 +37,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -70,16 +70,18 @@ Sunday       111 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 5 mins         ███████████████████░░░░░░   78.91% 
+Java                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 23 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Memories-project         1 hr 5 mins         ███████████████████░░░░░░   78.91% 
+Java                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.09%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 23 mins        █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +102,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eshan1925/eshan1925/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/06/2022 18:51:04 UTC
+ Last Updated on 17/06/2022 18:49:34 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
