@@ -37,7 +37,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
@@ -70,19 +70,18 @@ Sunday       111 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 8 mins        █████████████░░░░░░░░░░░░   51.98% 
-CSS                      3 hrs 49 mins       ████████████░░░░░░░░░░░░░   47.86% 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+JavaScript               3 hrs 35 mins       █████████████████░░░░░░░░   67.67% 
+CSS                      1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   32.33%
 
 🔥 Editors: 
-VS Code                  7 hrs 58 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 18 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-gmd_main_website_frontend6 hrs 51 mins       █████████████████████░░░░   85.9% 
-gmd_main_website_backend 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   14.1%
+gmd_main_website_frontend3 hrs 36 mins       █████████████████░░░░░░░░   68.09% 
+gmd_main_website_backend 1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   31.91%
 
 💻 Operating System: 
-Windows                  7 hrs 58 mins       █████████████████████████   100.0%
+Windows                  5 hrs 18 mins       █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +102,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eshan1925/eshan1925/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/09/2022 19:00:01 UTC
+ Last Updated on 13/09/2022 18:53:26 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
