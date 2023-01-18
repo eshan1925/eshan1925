@@ -8,7 +8,7 @@
 - 🌱 Have explored full stack web development using MERN Stack. <br>
 - ✨ Have explored App development using Flutter SDK and dart. <br>
 - 💞️ I’m looking to collaborate on projects using MERN Stack. <br>
-- 📃 <a target="blank" href="https://drive.google.com/file/d/1oQY87t-8yKT_Gr-72N9JwbxD3d995mcR/view?usp=share_link">Dowload Resume</a> <br>
+- 📃 <a target="_blank" href="https://drive.google.com/file/d/1oQY87t-8yKT_Gr-72N9JwbxD3d995mcR/view?usp=share_link">Dowload Resume</a> <br>
 
 
 <br><br><br>
