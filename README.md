@@ -39,29 +39,29 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eshan.gupta.56213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshan_eg__25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshangupta25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eshan1925) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16106456/eshan-gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Eshanstweet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCsHsGg1IQCBBNpHw8K6PkWQ) [![LinkTree](https://img.shields.io/badge/LinkTree-%20-green)](https://linktr.ee/eshan1925) [![portfolio](https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white)](https://eshan1925.github.io/Portfolio_Website/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-412%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-🌆 Daytime    132 commits    ████████░░░░░░░░░░░░░░░░░   33.08% 
-🌃 Evening    140 commits    ████████░░░░░░░░░░░░░░░░░   35.09% 
-🌙 Night      101 commits    ██████░░░░░░░░░░░░░░░░░░░   25.31%
+🌞 Morning    26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
+🌆 Daytime    132 commits    ████████░░░░░░░░░░░░░░░░░   33.5% 
+🌃 Evening    137 commits    ████████░░░░░░░░░░░░░░░░░   34.77% 
+🌙 Night      99 commits     ██████░░░░░░░░░░░░░░░░░░░   25.13%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       78 commits     █████░░░░░░░░░░░░░░░░░░░░   19.55% 
-Tuesday      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Wednesday    56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Thursday     68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.04% 
-Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Saturday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03%
+Monday       78 commits     █████░░░░░░░░░░░░░░░░░░░░   19.8% 
+Tuesday      45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
+Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Thursday     68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.26% 
+Friday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
+Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Sunday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18%
 
 ```
 
@@ -72,19 +72,18 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               5 hrs 13 mins       ████████████████████████░   97.23% 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.76% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+JavaScript               2 hrs 57 mins       ██████████████████████░░░   88.75% 
+CSS                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.25%
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-gmd_main_website_backend 2 hrs 57 mins       █████████████░░░░░░░░░░░░   55.1% 
-gmd_main_website_frontend2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.9%
+gmd_main_website_backend 1 hr 40 mins        ████████████░░░░░░░░░░░░░   50.15% 
+gmd_main_website_frontend1 hr 39 mins        ████████████░░░░░░░░░░░░░   49.85%
 
 💻 Operating System: 
-Windows                  5 hrs 22 mins       █████████████████████████   100.0%
+Windows                  3 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +104,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eshan1925/eshan1925/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2023 18:38:45 UTC
+ Last Updated on 22/01/2023 18:41:30 UTC
 <!--END_SECTION:waka-->
 
 
