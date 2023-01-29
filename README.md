@@ -72,18 +72,16 @@ Sunday       48 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               18 mins             █████████████░░░░░░░░░░░░   55.1% 
-CSS                      15 mins             ███████████░░░░░░░░░░░░░░   44.9%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gmd_main_website_frontend26 mins             ███████████████████░░░░░░   77.99% 
-gmd_main_website_backend 7 mins              █████░░░░░░░░░░░░░░░░░░░░   22.01%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -104,7 +102,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/eshan1925/eshan1925/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2023 18:39:59 UTC
+ Last Updated on 29/01/2023 18:40:25 UTC
 <!--END_SECTION:waka-->
 
 
