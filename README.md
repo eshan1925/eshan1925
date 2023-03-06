@@ -39,7 +39,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eshan.gupta.56213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshan_eg__25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshangupta25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eshan1925) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16106456/eshan-gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Eshanstweet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCsHsGg1IQCBBNpHw8K6PkWQ) [![LinkTree](https://img.shields.io/badge/LinkTree-%20-green)](https://linktr.ee/eshan1925) [![portfolio](https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white)](https://eshan1925.github.io/Portfolio_Website/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -70,24 +70,24 @@ Sunday                   34 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 54 mins       ███████████████████░░░░░░   77.06 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+TypeScript               13 hrs 15 mins      █████████████████████░░░░   85.37 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vit-hiring-2023-phase-1-e4 hrs 48 mins       █████████████░░░░░░░░░░░░   53.62 % 
-Test                     2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.93 % 
-ToDo-list                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Test2                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+vit-hiring-2023-phase-1-e11 hrs 12 mins      ██████████████████░░░░░░░   72.13 % 
+Test                     2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+ToDo-list                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Test2                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 💻 Operating System: 
-Windows                  8 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  15 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -107,7 +107,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2023 18:35:18 UTC
+ Last Updated on 06/03/2023 18:39:18 UTC
 <!--END_SECTION:waka-->
 
 
