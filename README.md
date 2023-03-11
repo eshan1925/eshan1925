@@ -39,9 +39,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eshan.gupta.56213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshan_eg__25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshangupta25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eshan1925) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16106456/eshan-gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Eshanstweet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCsHsGg1IQCBBNpHw8K6PkWQ) [![LinkTree](https://img.shields.io/badge/LinkTree-%20-green)](https://linktr.ee/eshan1925) [![portfolio](https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white)](https://eshan1925.github.io/Portfolio_Website/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,24 +70,24 @@ Sunday                   34 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               13 hrs 15 mins      ██████████████████████░░░   87.34 % 
-JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TypeScript               10 hrs 53 mins      ████████████████████████░   96.28 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 11 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vit-hiring-2023-phase-1-e11 hrs 12 mins      ██████████████████░░░░░░░   73.80 % 
-Test                     2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-ToDo-list                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Test2                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-gmd_main_website_backend 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+vit-hiring-2023-phase-1-e10 hrs 58 mins      ████████████████████████░   97.02 % 
+Test                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+calcom                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Test2                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+calcom-docker            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  15 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -107,7 +107,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2023 18:35:45 UTC
+ Last Updated on 11/03/2023 18:33:48 UTC
 <!--END_SECTION:waka-->
 
 
