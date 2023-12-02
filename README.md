@@ -70,20 +70,16 @@ Sunday                   134 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 mins             ██████████████░░░░░░░░░░░   57.77 % 
-TypeScript               9 mins              ██████████░░░░░░░░░░░░░░░   40.57 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-chat-bot                 13 mins             ███████████████░░░░░░░░░░   59.43 % 
-nextjs13                 9 mins              ██████████░░░░░░░░░░░░░░░   40.57 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -103,7 +99,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 18:34:29 UTC
+ Last Updated on 02/12/2023 18:32:41 UTC
 <!--END_SECTION:waka-->
 
 
