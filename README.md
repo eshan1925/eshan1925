@@ -70,16 +70,16 @@ Sunday                   134 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+nextjs13                 0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -99,7 +99,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2024 18:33:31 UTC
+ Last Updated on 06/04/2024 18:33:06 UTC
 <!--END_SECTION:waka-->
 
 
