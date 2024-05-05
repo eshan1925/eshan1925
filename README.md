@@ -70,20 +70,16 @@ Sunday                   134 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               19 mins             ██████████████████░░░░░░░   73.90 % 
-HTML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-credui-clone             26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,7 +99,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2024 18:34:01 UTC
+ Last Updated on 05/05/2024 18:33:00 UTC
 <!--END_SECTION:waka-->
 
 
