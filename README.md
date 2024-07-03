@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi😎, I'm Eshan</h1>
-<h3 align="center">Pre-final year student at VIT, Vellore</h3>
+<h3 align="center">Software Engineer @OPTUM-UHG</h3>
+<h3 align="center">B.Tech, VIT'24</h3>
 <img align="right" alt="Coding" width="400" height="200" class="rounded-corners" src="https://user-images.githubusercontent.com/78701779/118412678-f2486300-b6b8-11eb-9178-cd75230ad8a5.gif">
 - 👀 Night coding === Peace <br>
 - 🕸️ Full-Stack Web Developer <br>
