@@ -44,45 +44,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-🌆 Daytime                347 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
-🌃 Evening                326 commits         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-🌙 Night                  358 commits         ████████░░░░░░░░░░░░░░░░░   31.79 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Tuesday                  197 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Wednesday                170 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
-Friday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Saturday                 163 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Sunday                   179 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -100,7 +61,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 18:39:44 UTC
+ Last Updated on 08/09/2024 18:39:59 UTC
 <!--END_SECTION:waka-->
 
 
