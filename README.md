@@ -40,7 +40,48 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/eshan.gupta.56213) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eshan_eg__25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eshangupta25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eshan1925) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16106456/eshan-gupta) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Eshanstweet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/channel/UCsHsGg1IQCBBNpHw8K6PkWQ) [![LinkTree](https://img.shields.io/badge/LinkTree-%20-green)](https://linktr.ee/eshan1925) [![portfolio](https://img.shields.io/badge/my_portfolio-000?logo=ko-fi&logoColor=white)](https://eshan1925.github.io/Portfolio_Website/)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2017%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+🌆 Daytime                264 commits         █████████░░░░░░░░░░░░░░░░   34.60 % 
+🌃 Evening                202 commits         ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+🌙 Night                  238 commits         ████████░░░░░░░░░░░░░░░░░   31.19 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   125 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Tuesday                  107 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+Wednesday                98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Thursday                 112 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Friday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Saturday                 108 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Sunday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -59,7 +100,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/eshan1925/eshan1925/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:41:06 UTC
+ Last Updated on 21/09/2025 18:42:30 UTC
 <!--END_SECTION:waka-->
 
 
